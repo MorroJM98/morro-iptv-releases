@@ -16,7 +16,7 @@
 |:--|:--|:--|
 | 📺 **Fire TV** | 1.45 | [**Download**](https://github.com/MorroJM98/morro-iptv-releases/releases/download/firetv-v1.45/Morro-IPTV-FireTV-1.45.apk) |
 | 💻 **Mac** · macOS 15 or later | 1.47 | [**Download**](https://github.com/MorroJM98/morro-iptv-releases/releases/download/mac-v1.47/Morro-IPTV-Mac-1.47.dmg) |
-| 🪟 **Windows** 10 and 11 | — | Coming soon |
+| 🖥️ **Windows** 10 and 11 | — | Coming soon |
 
 Fire TV and Windows update themselves: when a new version is out, the app offers to install it.
 
@@ -42,7 +42,7 @@ New Mac versions appear on this page: download and drag the app in again to upda
 </details>
 
 <details>
-<summary><b>🪟 Windows</b></summary>
+<summary><b>🖥️ Windows</b></summary>
 
 1. Run the downloaded `.msi`.
 2. If Windows shows **"Windows protected your PC"**, click **More info → Run anyway**.
