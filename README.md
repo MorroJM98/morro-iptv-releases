@@ -14,7 +14,7 @@
 
 | Device | Version | |
 |:--|:--|:--|
-| 📺 **Fire TV** | 1.45 | [**Download**](https://github.com/MorroJM98/morro-iptv-releases/releases/download/firetv-v1.45/Morro-IPTV-FireTV-1.45.apk) |
+| 📺 **Fire TV** | 1.48 | [**Download**](https://github.com/MorroJM98/morro-iptv-releases/releases/download/firetv-v1.48/Morro-IPTV-FireTV-1.48.apk) |
 | 💻 **Mac** · macOS 15 or later | 1.47 | [**Download**](https://github.com/MorroJM98/morro-iptv-releases/releases/download/mac-v1.47/Morro-IPTV-Mac-1.47.dmg) |
 | 🖥️ **Windows** 10 and 11 | — | Coming soon |
 
