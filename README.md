@@ -16,7 +16,7 @@
 |:--|:--|:--|
 | 📺 **Fire TV** | 1.48 | [**Download**](https://github.com/MorroJM98/morro-iptv-releases/releases/download/firetv-v1.48/Morro-IPTV-FireTV-1.48.apk) |
 | 💻 **Mac** · macOS 15 or later | 1.47 | [**Download**](https://github.com/MorroJM98/morro-iptv-releases/releases/download/mac-v1.47/Morro-IPTV-Mac-1.47.dmg) |
-| 🖥️ **Windows** 10 and 11 | — | Coming soon |
+| 🖥️ **Windows** 10 and 11 | 1.0.13 | [**Download**](https://github.com/MorroJM98/morro-iptv-releases/releases/download/windows-v1.0.13/Morro.IPTV-1.0.13.msi) |
 
 Fire TV and Windows update themselves: when a new version is out, the app offers to install it.
 
